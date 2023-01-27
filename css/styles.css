@@ -1,0 +1,12 @@
+body {
+    background-color: blue;
+}
+
+#heading {
+    color: rgb(216, 213, 7);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#heading_box {
+    background-color: brown;
+}
