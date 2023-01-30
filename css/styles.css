@@ -16,6 +16,8 @@ body {
 #heading_box {
     background-color: #A0C3D2;
     border-bottom: solid #000;
+    position: relative;
+    text-align: center;
 }
 
 #middle_box {
@@ -61,4 +63,24 @@ body {
     height: 100px;
     width: 33.3%;
     float: right;
+}
+
+#cloud_1 {
+    display: inline-block;
+    position:relative;
+    top: 10px;
+    left: 200px;
+}
+
+#cloud_2 {
+    position:absolute;
+    left: 350px;
+}
+
+#cloud_3 {
+    position:absolute;
+}
+
+#mountain_img {
+    position:relative;
 }
