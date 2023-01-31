@@ -85,3 +85,23 @@ body {
 #mountain_img {
     position:relative;
 }
+
+#profile_picture {
+    width: 225px;
+    height: 225;
+}
+
+#introduction_text {
+    text-justify: auto;
+}
+
+.introduction {
+    border-bottom: dotted rgb(184, 163, 163);
+    border-width: 7px;
+}
+
+.introduction-table {
+    text-align: justify;
+    text-justify: inter-word;
+    border-spacing: 20px;
+}
