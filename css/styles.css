@@ -89,19 +89,21 @@ body {
 #profile_picture {
     width: 225px;
     height: 225;
+    border: solid #000;
+    border-radius: 100%;
 }
 
 #introduction_text {
     text-justify: auto;
 }
 
-.introduction {
-    border-bottom: dotted rgb(184, 163, 163);
-    border-width: 7px;
+#skill-table {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .introduction-table {
     text-align: justify;
     text-justify: inter-word;
-    border-spacing: 20px;
+    padding: 0 10px;
 }
