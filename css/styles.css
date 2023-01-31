@@ -107,3 +107,7 @@ body {
     text-justify: inter-word;
     padding: 0 10px;
 }
+
+.bottom-box {
+    padding: 0 10px;
+}
