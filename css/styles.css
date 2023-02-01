@@ -9,6 +9,7 @@ body {
 
 h2 {
     color: #11999E; 
+    font-weight: 700;
 }
 
 hr {
@@ -130,6 +131,7 @@ hr {
     width: 40%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 50px;
 }
 
 .contact-btn {
@@ -150,6 +152,8 @@ hr {
     font-size: 20px;
     padding: 7px 15px;
     text-decoration: none;
+    position: relative;
+    top: 10px;
   }
   
 .contact-btn:hover {
