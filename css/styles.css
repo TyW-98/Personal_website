@@ -91,6 +91,8 @@ body {
     height: 200px;
     border: solid #000;
     border-radius: 100%;
+    position: relative;
+    top: 5px;
 }
 
 #introduction_text {
@@ -117,6 +119,7 @@ body {
     position: relative;
     left: 40%;
     top: 15px;
+    background-color: #a4c7da;
 }
 
 .profile-section {
