@@ -1,5 +1,5 @@
 body {
-    background-color: #ace0cc;
+    background-color: #e0f3ec;
     margin-left: 0;
     margin-right: 0;
     margin-top: 0;
@@ -16,7 +16,7 @@ hr {
     border-style: none;
     border-bottom: dotted #64a1b9;
     border-width: 7px;
-    width: 30%;
+    width: 15%;
 }
 
 #heading {
@@ -35,7 +35,7 @@ hr {
 }
 
 #heading_box {
-    background-color: #acc3cc;
+    background-color: #c1e2f0;
     position: relative;
     text-align: center;
 }
@@ -93,7 +93,7 @@ hr {
     border-radius: 100%;
     border: solid black;
     position:relative;
-    top: 15px;
+    top: 10px;
 }
 
 .profile-section {
@@ -110,6 +110,7 @@ hr {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    margin-bottom: -20px;
 }
 
 .skill-box {
