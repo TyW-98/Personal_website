@@ -87,8 +87,8 @@ body {
 }
 
 #profile_picture {
-    width: 225px;
-    height: 225;
+    width: 200px;
+    height: 200px;
     border: solid #000;
     border-radius: 100%;
 }
@@ -103,21 +103,40 @@ body {
     padding-right: 10px;
 }
 
-.introduction-table {
+#introduction {
     text-align: justify;
     text-justify: inter-word;
-    padding: 0 10px;
+    padding: 0 15px;
+}
+
+#technical-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: solid black;
+    position: relative;
+    left: 40%;
+    top: 15px;
+}
+
+.profile-section {
+    text-align: center;
+    padding-top: 10px;
 }
 
 .bottom-box {
     padding: 0 10px;
+    text-align: center;
 }
 
 .skill-heading {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    border-top: double black;
+}
+
+.skill-box {
+    border: double black;
 }
 
 .bottom-box {
