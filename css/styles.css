@@ -17,6 +17,7 @@ hr {
     border-bottom: dotted #64a1b9;
     border-width: 7px;
     width: 15%;
+    margin: 25px auto;
 }
 
 #heading {
@@ -125,13 +126,20 @@ hr {
 }
 
 .bottom-box {
-    background-color: #116e6e;
+    background-color: #327a7a;
+    padding-bottom: 10px;
+    font-family: "IBM Plex Mono", monospace;
 }
 
 .footer-link {
     color: #0a2c58;
     font-size: 16pt;
     padding: 5px;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color:#eee6d6;
 }
 
 .contact-me {
@@ -140,6 +148,11 @@ hr {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 50px;
+}
+
+.copyright-text {
+    color:#eee6d6;
+    padding-top: 5px;
 }
 
 .contact-btn {
@@ -155,7 +168,7 @@ hr {
     -webkit-box-shadow: 5px 5px 5px #666666;
     -moz-box-shadow: 5px 5px 5px #666666;
     box-shadow: 5px 5px 5px #666666;
-    font-family: Georgia;
+    font-family: "IBM Plex Mono",monospace;
     color: #ffffff;
     font-size: 20px;
     padding: 7px 15px;
